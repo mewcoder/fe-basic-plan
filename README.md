@@ -16,7 +16,7 @@
 
 - 湖科大教书匠**-计算机网络微课堂**
   - 讲课逻辑清晰、易懂
-    - [bilibili](https://www.bilibili.com/video/av64605483/  "bilibili")
+  - [bilibili](https://www.bilibili.com/video/av64605483/  "bilibili")
 
 
 - 中科大-郑烇/杨坚-**计算机网络自顶向下**
