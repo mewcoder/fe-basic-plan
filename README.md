@@ -9,8 +9,8 @@
 
 - **计算机系统要素，从零开始构建现代计算机**（nand2tetris）【coursera】
   - 从零开始构建计算机系统
-    - [bilibili](http://https://www.bilibili.com/video/av80737268 "bilibili")
-    - [github](https://github.com/woai3c/nand2tetris "github")
+  - [bilibili](http://https://www.bilibili.com/video/av80737268 "bilibili")
+  - [github](https://github.com/woai3c/nand2tetris "github")
 
 ### 计算机网络
 
@@ -26,17 +26,17 @@
 
 - 南大-蒋炎岩-**操作系统：设计与实现**
   - 通俗易懂
-    - [bilibili](https://www.bilibili.com/video/BV1N741177F5 "bilibili")
+  - [bilibili](https://www.bilibili.com/video/BV1N741177F5 "bilibili")
 - 哈工大-李治军-操作系统-【中国大学MOOC】
   - 让你懂原理的同时对linux0.11进行改动
-    - [中国大学MOOC](https://www.icourse163.org/course/HIT-1002531008 "中国大学MOOC")
-    - [bilibili](https://www.bilibili.com/video/BV1d4411v7u7 "bilibili")
+  - [中国大学MOOC](https://www.icourse163.org/course/HIT-1002531008 "中国大学MOOC")
+  - [bilibili](https://www.bilibili.com/video/BV1d4411v7u7 "bilibili")
 
 ### 编译原理
 - Alex Aiken-**Compilers**-【coursera】
   - 评价：[知乎](https://www.zhihu.com/question/28679215/answer/43883727 "知乎")
-    - [bilibili](https://space.bilibili.com/354384246 "bilibili")
-    - [stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers "stanford")
+  - [bilibili](https://space.bilibili.com/354384246 "bilibili")
+  - [stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers "stanford")
 
 
 ## 其他清单
