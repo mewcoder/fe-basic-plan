@@ -1,9 +1,9 @@
 # 前端工程师-内功修炼心法📚
 
-# 浏览器
+# 🌎浏览器
 - 李兵-浏览器工作原理与实践【极客时间】
 
-## 计算机科学课程
+## 💻计算机科学课程
 
 ### 计算机网络
 
@@ -28,7 +28,7 @@
 - https://github.com/ossu/computer-science
 
 
-# 书籍推荐
+# 📖书籍推荐
 
 - 编译原理（龙书）https://book.douban.com/subject/3296317/
 - 数据密集型应用系统设计 https://book.douban.com/subject/30329536/
