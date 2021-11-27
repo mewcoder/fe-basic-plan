@@ -23,7 +23,7 @@
 > 通俗易懂
 
 ### 编译原理
-- Alex Aiken-Compilers-【coursera】
+- Alex Aiken-Compilers-【coursera】https://space.bilibili.com/354384246
 
 ### 其他清单推荐
 - https://github.com/izackwu/TeachYourselfCS-CN
