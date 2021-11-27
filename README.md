@@ -16,7 +16,7 @@
 ### 计算机网络
 
 - 湖科大教书匠-计算机网络微课堂
-> 通俗易懂
+> 讲课逻辑清晰、易懂
 
   - [bilibili](https://www.bilibili.com/video/av64605483/  "bilibili")
 
