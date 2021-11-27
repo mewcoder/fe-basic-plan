@@ -20,6 +20,9 @@
 
   - [bilibili](https://www.bilibili.com/video/av64605483/  "bilibili")
 
+- 中科大-郑烇/杨坚-计算机网络自顶向下
+  - [bilibili](https://www.bilibili.com/video/BV1JV411t7ow  "bilibili")
+
 ### 操作系统
 
 - 南大-蒋炎岩-操作系统：设计与实现
