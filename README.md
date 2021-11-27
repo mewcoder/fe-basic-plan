@@ -18,24 +18,27 @@
 
 - 南大-蒋炎岩-操作系统：设计与实现-https://www.bilibili.com/video/BV1N741177F5
 > 通俗易懂
-> 
+
 - 哈工大-李治军-操作系统-【中国大学MOOC】https://www.bilibili.com/video/BV1d4411v7u7
 > 让你懂原理的同时对linux0.11进行改动
 
 ### 编译原理
 - Alex Aiken-Compilers-【coursera】https://space.bilibili.com/354384246
 
+
 ## 其他清单
 - https://github.com/izackwu/TeachYourselfCS-CN
 - https://github.com/spring2go/cs_study_plan
 - https://github.com/ossu/computer-science
-- 
+
+
 ## 课程推荐
 > 适合入门
 - 王争-数据结构与算法之美【极客时间】
 - 覃超-算法面试通关40讲【极客时间】
 - 李兵-浏览器工作原理与实践【极客时间】
 - 陶辉-Web协议详解与抓包实战【极客时间】
+
 
 ## 📖经典书籍
 - 计算机系统要素 https://book.douban.com/subject/1998341/
