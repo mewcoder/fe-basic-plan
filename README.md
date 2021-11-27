@@ -7,8 +7,12 @@
 > 通俗易懂，推荐
 
 ## 操作系统
+
 - 哈工大-李治军-操作系统-【中国大学MOOC】https://www.icourse163.org/course/HIT-1002531008
   - b站版本https://www.bilibili.com/video/BV1d4411v7u7
+
+- 南大-蒋炎岩-操作系统：设计与实现-https://www.bilibili.com/video/BV1N741177F5
+
 ## 编译原理
 - Alex Aiken-Compilers-【coursera】
 
