@@ -28,7 +28,7 @@
 - 南大-蒋炎岩-**操作系统：设计与实现**
   - 通俗易懂
   - [bilibili](https://www.bilibili.com/video/BV1N741177F5 "bilibili")
-- 哈工大-李治军-操作系统-【中国大学MOOC】
+- 哈工大-李治军-**操作系统**-【中国大学MOOC】
   - 让你懂原理的同时对linux0.11进行改动
   - [中国大学MOOC](https://www.icourse163.org/course/HIT-1002531008 "中国大学MOOC")
   - [bilibili](https://www.bilibili.com/video/BV1d4411v7u7 "bilibili")
