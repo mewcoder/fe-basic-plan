@@ -37,7 +37,7 @@
 - 李兵-浏览器工作原理与实践【极客时间】
 - 陶辉-Web协议详解与抓包实战【极客时间】
 
-## 📖书籍推荐
+## 📖经典书籍
 - 计算机系统要素 https://book.douban.com/subject/1998341/
 - 算法（第4版）https://book.douban.com/subject/19952400/
 - 编译原理（龙书）https://book.douban.com/subject/3296317/
