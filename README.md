@@ -34,7 +34,7 @@
   - [bilibili](https://www.bilibili.com/video/BV1d4411v7u7 "bilibili")
 
 ### 编译原理
-- Alex Aiken-**Compilers**-【coursera】
+- 斯坦福-Alex Aiken-**Compilers**-【coursera】
   - 评价：[知乎](https://www.zhihu.com/question/28679215/answer/43883727 "知乎")
   - [bilibili](https://space.bilibili.com/354384246 "bilibili")
   - [stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers "stanford")
