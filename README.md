@@ -62,6 +62,6 @@
 
 ## 其他
 - https://github.com/jamiebuilds/the-super-tiny-compiler
-
+- [北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF)
 
 > 有好的学习资源推荐，欢迎提 issue
